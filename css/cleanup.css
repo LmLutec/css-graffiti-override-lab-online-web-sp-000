@@ -7,13 +7,4 @@
 }
 
 
-.tag-2 {
-  border-radius:50%;
-  opacity: 0.5;
-  
-}
-
-#parent + tag-4 {
-  position: absolute;
-}
 
