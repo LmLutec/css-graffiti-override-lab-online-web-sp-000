@@ -3,15 +3,14 @@
   border-radius: 100%; 
   opacity: 0.5;
   filter: blur(8px);
+  display: none;
 }
 
-/*.tag-1 {
-  display: none;
-  filter: blur(8px);
-} */
 
 .tag-2 {
   border-radius:50%;
+  opacity: 0.5;
+  
 }
 
 #parent + tag-4 {
