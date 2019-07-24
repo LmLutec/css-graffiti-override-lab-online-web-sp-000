@@ -1,1 +1,20 @@
 /* write your override styles here */
+#wall .tag-1{
+  border-radius: 100%; 
+  opacity: 0.5;
+  filter: blur(8px);
+}
+
+/*.tag-1 {
+  display: none;
+  filter: blur(8px);
+} */
+
+.tag-2 {
+  border-radius:50%;
+}
+
+#parent + tag-4 {
+  position: absolute;
+}
+
