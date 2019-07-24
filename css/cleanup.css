@@ -1,8 +1,5 @@
 /* write your override styles here */
 #wall .tag-1{
- /* border-radius: 100%; 
-  opacity: 0.5;
-  filter: blur(8px);*/
   display: none;
 }
 
